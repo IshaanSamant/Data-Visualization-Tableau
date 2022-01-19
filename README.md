@@ -9,8 +9,8 @@ This dataset contains the Global Trade data (data about import and export) of mu
 The first phase of our workbook is to do general analysis on the trades of the G20 countries.
 ![](/images/G20_global_trade.PNG)
 
-![](/images/Net_Revenue)
+![](/images/Net_Revenue.PNG)
 
-![](/images/China_Analysis)
+![](/images/China_Analysis.PNG)
 
-![](/images/Competitor_Analysis)
+![](/images/Competitor_Analysis.PNG)
