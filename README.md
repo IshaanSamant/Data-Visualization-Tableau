@@ -7,12 +7,8 @@ This dataset contains the Global Trade data (data about import and export) based
 
 # Final Work
 We chose to focus our efforts on first analyzing general trends of the global trade of the G20 countries and then focus on the trends of four specific countries which are Germany, Saudi, India and China. Finally finishing the workbook off with a competitor analysis based on certain products.
-The first phase of our workbook is to do general analysis on the trades of the G20 countries, some of which are shown below.
-This first graph is only based on the global trade.
-![](/images/G20_global_trade.PNG)
-This graph shows us the net renveue of the G20 countries.
-![](/images/Net_Revenue.PNG)
-This graph shows how the top products for China perform over the years
-![](/images/China_Analysis.PNG)
-This graph shows the top competitors for certian products and the trend of how these countries will perform in the coming years.
-![](/images/Competitor_Analysis.PNG)
+Here are some of the graphs from the workbook
+![](/images/G20_global_trade.PNG)<br/>
+![](/images/Net_Revenue.PNG)<br/>
+![](/images/China_Analysis.PNG)<br/>
+![](/images/Competitor_Analysis.PNG)<br/>
